@@ -3,7 +3,7 @@ function Header() {
 
     return (
         <header role="banner">
-            <div className="row">
+            <div className="row headerNav">
                 <div className="col-6">
                     <h6>www.DEMOLINK.ORG |</h6>
                 </div>
