@@ -1,8 +1,17 @@
 body {
-    
+    background-color: #f2f3f5;
 }
 
 .headerNav {
     color: white;
-    background-color: blue;
+    background-color: #0b0b31;
+    padding: 0px 45px;
+}
+
+.headingBtns {
+    padding: 3px 12px;
+    border-radius: 5px;
+    margin: 0 1px;
+    background-color: #0b0b31;
+    color: white;
 }
