@@ -1,6 +1,8 @@
 import Hero from './HeroHeading'
 import HeroImg from './HeroImage'
 import HeroDots from './HeroDots'
+import About from './About'
+import Info from './Info'
 
 function Main() {
 
@@ -9,6 +11,8 @@ function Main() {
             <Hero />
             <HeroImg />
             <HeroDots />
+            <About />
+            <Info />
         </main>
     )
 }

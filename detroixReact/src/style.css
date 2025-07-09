@@ -24,3 +24,52 @@ body {
     background-color: #808080;
     border: none;
 }
+
+.about h1 {
+    color: #0e1e31;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.about img {
+    width: 90%;
+}
+
+.about p {
+    margin-top: 15px;
+    color: #a9a9a9;
+}
+
+.about button {
+    color: white;
+    background-color: #0e1e31;
+    border-radius: 3px;
+    padding: 3px 10px;
+}
+
+.smart {
+    border-top: 2px solid #a9a9a9;
+}
+
+.strong {
+    border-top: 2px solid #a9a9a9;
+    border-left: 2px solid #a9a9a9;
+    border-right: 2px solid #a9a9a9;
+}
+
+.stable {
+    border-top: 2px solid #a9a9a9;
+}
+
+.info {
+    background-color: #1b2b3d;
+    color: white;
+}
+
+.info img {
+    width: 22px;
+}
+
+.news img {
+    width: 80px;
+}
