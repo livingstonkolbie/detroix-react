@@ -73,3 +73,15 @@ body {
 .news img {
     width: 80px;
 }
+
+.infoBtns {
+    background-color: #1b2b3d;
+    color: white;
+}
+
+.infoBtns button {
+    background-color: #213349;
+    color: white;
+    padding: 6px 24px;
+    border-radius: 3px;
+}

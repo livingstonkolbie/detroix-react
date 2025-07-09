@@ -3,6 +3,7 @@ import HeroImg from './HeroImage'
 import HeroDots from './HeroDots'
 import About from './About'
 import Info from './Info'
+import InfoBtns from './InfoBtns'
 
 function Main() {
 
@@ -13,6 +14,7 @@ function Main() {
             <HeroDots />
             <About />
             <Info />
+            <InfoBtns />
         </main>
     )
 }
