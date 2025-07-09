@@ -16,6 +16,10 @@ body {
     color: white;
 }
 
+.heroImg img {
+    width: 100%;
+}
+
 .heroDots {
     width: 22px;
     height: 22px;
@@ -84,4 +88,13 @@ body {
     color: white;
     padding: 6px 24px;
     border-radius: 3px;
+}
+
+.footer {
+    background-color: #0e1e31;
+    color: white;
+}
+
+.footer p {
+    font-size: larger;
 }
